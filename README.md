@@ -22,11 +22,11 @@ A scalable and secure backend for the Bike Solution e-commerce platform, providi
 **Payment Integration:** ShurjoPay
 
 ## Links
-[Demo Link](https://bike-solution-rakibul.vercel.app/)
+[Demo Link](https://bike-solution-client-complete.vercel.app/)
 <br>
-[Github Link (Client )](https://github.com/Rakibul-98/bike-store-client)
+[Github Link (Client )](https://github.com/Rakibul-98/bike-solution-client-complete-.git)
 <br>
-[Live Server Link](https://bike-store-server-updated-three.vercel.app/api/products/)
+[Live Server Link](https://bike-store-server-updated.vercel.app/api/products)
 
 ## Environment Variables
 
